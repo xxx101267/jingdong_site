@@ -1,0 +1,30 @@
+img{
+	border: 0;
+	vertical-align: top;
+}
+body,p,dl,dd{
+	margin: 0;
+	font-size: 12px;
+}
+body{
+	color: #616161;
+	font-family: "微软雅黑";
+}
+a{
+	text-decoration: none;
+	font-size: 12px;
+	font-family: "微软雅黑";
+	color: #616161;
+}
+ul{
+	margin: 0;
+	padding: 0;
+}
+li{
+	list-style: none;
+}
+input{
+	border: 0;
+	outline: none;
+	padding: 0;
+}

@@ -1,0 +1,264 @@
+/*登录顶*/
+.JDindex_login{
+	width:1348px;
+	height:30px;
+	background-color: #f1f1f1;
+	margin: 0 auto;
+}
+.JDindex_loginMain{
+	width:1210px;
+	height:30px;
+	margin: 0 auto;
+}
+.JDindex_loginL{
+	float: left;
+	line-height: 30px;
+	padding-left: 10px;
+}
+.JDindex_loginL a,
+.JDindex_loginL span,
+.JDindex_loginR a,
+.JDindex_loginR span{
+	float: left;
+}
+.JDindex_loginR{
+	float: right;
+	line-height: 30px;
+}
+.JDindex_loginRli{
+	float: left;
+	padding-left: 10px;
+}
+.JDindex_loginRli span{
+	float: left;
+}
+.JDindex_loginRli .free{
+	float: left;
+	color: #c5182b;
+}
+.login{
+	padding-right: 7px;
+}
+.loginBar{
+	float: left;
+	height:15px;
+	border-right:1px solid #dedede;
+	margin-top: 8px;
+	padding-left: 10px;
+}
+.JDindex_loginRli .sprit{
+	width:11px;
+	height:16px;
+	background: url(../img/sprit.jpg) no-repeat;
+	margin-top: 7px;
+	margin-right: 5px;
+}
+/*登录顶*/
+
+
+.JDcont1348{
+	width:1348px;
+	height:127px;
+	border-bottom: 2px solid #b31919;
+	margin: 0 auto;
+}
+.JDcont1210{
+	width:1210px;
+	margin: 0 auto;
+}
+/*京东LOGO头部*/
+.JDindex_hdT{
+	height:81px;
+	float: left;
+}
+.JDindex_hdT_L{
+	float: left;
+	padding-top: 26px;
+}
+.JDindex_hdT_L img{
+	width:266px;
+	height:48px;
+}
+.JDindex_hdM{
+	float: left;
+	margin-top: 25px;
+	margin-left: 92px;
+}
+.JDindex_hdMU_search{
+	width:454px;
+	height:32px;
+	border: 2px solid #b61d1f;
+	float: left;
+}
+.JDindex_hdMU_searchBtn{
+	float: left;
+	width:80px;
+	height:36px;
+	background-color: #b61e1d;
+	color: #f2fffa;
+}
+.JDindex_hdMD{
+	margin-top: 8px;
+}
+.JDindex_hdMD a{
+	margin-right: 4px;
+}
+.JDindex_hdMD .active{
+	color: #d41831;
+}
+.JDindex_hdR{
+	float: left;
+	padding: 10px 10px 10px 20px;
+	background-color: #f8f6f9;
+	border: 1px solid #dedede;
+	margin-top: 25px;
+	margin-left:104px;
+}
+.JDindex_hdR .sprit{
+	width:16px;
+	height:13px;
+	background: url(../img/sprit.jpg) no-repeat 0 -19px;
+	margin-right: 8px;
+}
+.JDindex_hdR a,.JDindex_hdR span{
+	float: left;
+}
+.JDindex_hdR .num{
+	width:16px;
+	height:14px;
+	background: url(../img/sprit.jpg) no-repeat 0 -35px;
+	margin-top: -15px;
+	margin-left: -30px;
+}
+/*京东LOGO头部*/
+
+/*京东头部导航*/
+.JDindex_Nav{
+	margin-left: 285px;
+	width:1000px;
+}
+.JDindex_NavLIist{
+	margin-top: 18px;
+	float: left;
+}
+.JDindex_NavLIist a{
+	font-size: 14px;
+	padding-right: 35px;
+}
+.JDindex_NavR{
+	width:90px;
+	height:18px;
+	float: right;
+	background: url(../img/guchuandao-erji.jpg) no-repeat;
+	overflow: hidden;
+	text-indent: -9999px;
+	margin-right: 10px;
+	margin-top: 15px;
+}
+/*京东头部导航*/
+
+.JDindex_Cont1348{
+	width:1348px;
+}
+.JDindex_main{
+	width:1210px;
+	margin: 0 auto;
+}
+
+/*购物指南*/
+.JDindex_fotterwhite{
+	width:1348px;
+}
+.JDindex_fotterwhite1210{
+	width:1210px;
+	margin: 0 auto;
+	margin-top: 29px;
+}
+.JDindex_ft_shopguide{
+	width:1210px;
+	border-bottom: 1px solid #e4e4e4;
+	height:185px;
+}
+.JDindex_ft_guideLli{
+	float: left;
+	width:198px;
+}
+.JDindex_ft_guideLli_title{
+	font-size: 16px;
+}
+.JDindex_ft_guideLli_cont{
+	margin-top: 17px;
+}
+.JDindex_ft_guideLli_cont a{
+	display: block;
+	line-height: 20px;
+}
+.JDindex_ft_guideR{
+	float: left;
+	width:214px;
+	height:165px;
+	background: url(../img/ditu.jpg) no-repeat;
+}
+.JDindex_ft_guideL{
+	float: left;
+}
+.guideRtitle{
+	font-size: 15px;
+	margin-left: 16px;
+	margin-top:8px;
+}
+.guideRcont{
+	margin-top: 20px;
+	width:183px;
+	margin-left: 16px;
+	margin-top:8px;
+}
+.JDindex_ft_guideR a{
+	float: right;
+}
+.JDindex_ft_nav span,
+.JDindex_ft_num span{
+	padding-left: 12px;
+	padding-right: 12px;
+}
+.JDindex_ft_about{
+	margin-top: 30px;
+	text-align: center;
+}
+.JDindex_ft_link{
+	margin-top: 12px;
+}
+.JDindex_ft_banquan a{
+	margin-right: 12px;
+}
+.JDindex_ft_icon a{
+	float: left;
+	width:102px;
+	height:32px;
+	margin-right: 10px;
+	background-color: #eaeaea;
+}
+.JDindex_ft_icon img{
+	width:32px;
+	height:28px;
+	margin-left: 2px;
+	margin-top: 2px;
+	margin-right: 2px;
+	float: left;
+}
+.cxwz{
+	line-height: 32px;
+}
+.JDindex_ft_icon .JDindex_ft_icon_last{
+	width:185px;
+	text-align: center;
+}
+.JDindex_ft_icon{
+	margin-top: 10px;
+	margin-left: 283px;
+	margin-bottom: 25px;
+}
+.JDindex_ft_icon_last span{
+	display: block;
+}
+/*购物指南*/
